@@ -1,0 +1,9 @@
+pasta
+meat
+tomatoes
+salt
+pepper
+onion
+sugar
+water
+olive oil
